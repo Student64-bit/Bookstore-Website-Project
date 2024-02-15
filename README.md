@@ -1,6 +1,3 @@
-<iframe width="560" height="315" src="https://www.youtube.com/embed/meUz8p8a8Hk" frameborder="0" allowfullscreen></iframe>
-
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
