@@ -1,0 +1,118 @@
+const BooksData = [
+    {
+      id: 1,
+      title: "Dracula",
+      image: "/images/dracula.jpg",
+      price: 7.99,
+      category: "fiction",
+    },
+    {
+      id: 2,
+      title: "The Beatles",
+      image: "/images/beatles.jpg",
+      price: 5.99,
+      category: "nonfiction",
+    },
+    {
+      id: 3,
+      title: "The Holiday Swap",
+      image: "/images/holiday.jpg",
+      price: 11.99,
+      category: "nonfiction",
+    },
+    {
+      id: 4,
+      title: "Spiderman - Into the Spidy Verse",
+      image: "/images/spiderman.jpg",
+      price: 18.99,
+      category: "kids",
+    },
+    {
+      id: 5,
+      title: "Calm Your Soul",
+      image: "/images/calm.jpg",
+      price: 4.99,
+      category: "nonfiction",
+    },
+    {
+      id: 6,
+      title: "The Avengers",
+      image: "/images/avengers.jpg",
+      price: 1.99,
+      category: "comics",
+    },
+    {
+      id: 7,
+      title: "Star Wars - The Hidden Empire",
+      image: "/images/starwars.jpg",
+      price: 3.99,
+      category: "comics",
+    },
+    {
+      id: 8,
+      title: "Star Wars - Darth Vader",
+      image: "/images/darthvader.jpg",
+      price: 2.99,
+      category: "comics",
+    },
+    {
+      id: 9,
+      title: "DAREDEVIL",
+      image: "/images/daredevil.jpg",
+      price: 1.99,
+      category: "comics",
+    },
+    {
+      id: 10,
+      title: "The Avengers - The Witch",
+      image: "/images/witch.jpg",
+      price: 1.99,
+      category: "comics",
+    },
+    {
+      id: 11,
+      title: "The Lucky Puppy",
+      image: "/images/puppy.jpg",
+      price: 0.00,
+      category: "kids",
+    },
+    {
+      id: 12,
+      title: "Just Tyr One Bite",
+      image: "/images/bite.jpg",
+      price: 0.00,
+      category: "kids",
+    },
+    {
+      id: 13,
+      title: "Brown Bear",
+      image: "/images/brown.jpg",
+      price: 0.00,
+      category: "kids",
+    },
+    {
+      id: 14,
+      title: "Taylor Swift - The Ultimate Fan Book",
+      image: "/images/taylor.jpg",
+      price: 0.00,
+      category: "nonfiction",
+    },
+    {
+      id: 15,
+      title: "Dracula The Sequel",
+      image: "/images/dracula2.jpg",
+      price: 10.99,
+      category: "fiction",
+    },
+    {
+      id: 16,
+      title: "Skyward - Limited Signed Edition",
+      image: "/images/limited.jpg",
+      price: 179.99,
+      category: "fiction",
+    },
+  ];
+
+  
+  export default BooksData;
+  
